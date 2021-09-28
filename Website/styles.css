@@ -1,0 +1,31 @@
+/* --mauve: #dabfffff;
+--medium-purple: #907ad6ff;
+--purple-navy: #4f518cff;
+--space-cadet: #2c2a4aff;
+--baby-blue: #7fdeffff; */
+body{
+    background-color: var(--space-cadet);
+}
+h1{
+    color: var(--space-cadet);
+    text-align:center;
+    
+}
+h2{
+    color: var(--purple-navy);  
+    text-align:left;
+}
+p{
+    color:   var(--space-cadet);  
+    text-align:center;
+}
+.url{
+    margin-top: 100%;
+}
+:root{
+    --mauve: #dabfffff;
+    --medium-purple: #907ad6ff;
+    --purple-navy: #4f518cff;
+    --space-cadet: #2c2a4aff;
+    --baby-blue: #7fdeffff;
+}
